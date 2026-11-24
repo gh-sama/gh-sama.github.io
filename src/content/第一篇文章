@@ -1,0 +1,9 @@
+---
+title: 我的第一篇文章
+published: 2026-11-24
+description: 这是我的第一篇文章
+image: ./cover.jpg
+tags: [博客, 开发]
+category: 记录
+draft: false
+---
