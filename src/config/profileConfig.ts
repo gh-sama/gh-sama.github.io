@@ -24,15 +24,16 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://avatars.githubusercontent.com/u/298638294?s=400&u=d3bc08cf7fd0fae130a66f8950778ae948f74ab1&v=4",
+			url: "https://github.com/gh-sama",
 			showName: false,
 		},
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:xiaye@msn.com",
+			url: "mailto:2718418510@qq.com",
 			showName: false,
 		},
+		/*
 		{
 			name: "RSS",
 			icon: "fa7-solid:rss",
@@ -45,5 +46,6 @@ export const profileConfig: ProfileConfig = {
 			url: "/atom/",
 			showName: false,
 		},
+		*/
 	],
 };
